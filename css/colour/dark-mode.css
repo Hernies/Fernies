@@ -1,0 +1,11 @@
+:root {
+    --bg: var(--black);
+    --dark-bg: var(--dark-black);
+    --bright-bg: var(--bright-black);
+    --fg: var(--white);
+    --bright-fg: var(--bright-white);
+    /*
+    --pre-code-bg:                rgba(0, 0, 0, 0.2);
+    --blockquote-border:          #b57614;
+    */
+}
